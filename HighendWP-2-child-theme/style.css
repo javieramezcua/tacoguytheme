@@ -464,19 +464,20 @@ span.blog-author.minor-meta {
 }
 
 .custm-shrt-descrption {
-background-color: #ccca1d;
-    padding: 60px 60px 30px;
+    background-color: #ccca1d;
+    padding: 60px 50px 30px;
     border-radius: 4px;
     color: #fff;
-    width: 40%;
+    width: 45%;
+    line-height: 1.2 !important;
     position: absolute;
-    top: 6%;
+    margin-top: 0px !important;
     z-index: 999;
     transform: translateY(-80%);
 }
 
 .custm-shrt-descrption h1.title.entry-title {
-    font-size: 30px;
+    font-size: 28px;
     color: #fff;
     padding-bottom: 5px;
     font-family: typograph-semibold;
